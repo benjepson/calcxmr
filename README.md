@@ -1,0 +1,2 @@
+# calcxmr
+basic xmr calculations
